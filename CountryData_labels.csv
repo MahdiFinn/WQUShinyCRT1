@@ -1,0 +1,20 @@
+Name,Code
+"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS
+Access to electricity (% of population),EG.ELC.ACCS.ZS
+Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS
+CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC
+"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG
+Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2
+Individuals using the Internet (% of population),IT.NET.USER.ZS
+Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS
+GDP per capita (current US$),NY.GDP.PCAP.CD
+"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE
+"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA
+"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN
+"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN
+Population growth (annual %),SP.POP.GROW
+Urban population (% of total),SP.URB.TOTL.IN.ZS
